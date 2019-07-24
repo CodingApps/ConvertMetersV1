@@ -36,6 +36,7 @@ This implemented the OnClickListener to respond to button presses on the UI. It 
              public void onClick(View v) {
                  double multiplier = 39.37;
                  double result = 0.0;
+                 ...
 ```
 <br>
 
