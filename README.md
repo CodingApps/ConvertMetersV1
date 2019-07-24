@@ -8,7 +8,7 @@
 This project allows you to fill in meters and converts the value to inches. 
 
 <p align="center">
-  <img alt="convertmeters" title="convertmeters" src="screenshots/virtualt1.gif" width=300>
+  <img alt="convertmeters" title="convertmeters" src="http://androidflow.github.io/screens/convert1.gif" width=300>
 </p>
 <br>
 
